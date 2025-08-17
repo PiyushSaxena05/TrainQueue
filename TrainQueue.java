@@ -1,5 +1,3 @@
-package JDBC.Project;
-
 import java.sql.*;
 import java.util.*;
 
@@ -183,4 +181,5 @@ public class TrainQueue  {
 
     }
 }
+
 
